@@ -31,9 +31,13 @@ img{
 }
 
 section img {
-	margin: 10px 10px 0 0;
+	margin: 5px 10px 0 0;
 	border: 2px solid #CC1C0D;
 	border-radius: 40px;
+}
+
+section p {
+	margin-top: 0;
 }
 
 .pricing div {
